@@ -18,6 +18,12 @@
                             "price":"$399.99",
                             "stock":"In-stock",
                             "stock_state":0
+                        },
+                        {
+                            "name":"V9",
+                            "price":"$399.99",
+                            "stock":"In-stock",
+                            "stock_state":0
                         }
                     ]
                 },
