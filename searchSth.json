@@ -1,0 +1,38 @@
+{
+    "code":"200",
+    "data":[
+        {
+            "brand":"Dyson",
+            "types":[
+                {
+                    "type":"Vacuum",
+                    "products":[
+                        {
+                            "name":"V11",
+                            "price":"$599.99",
+                            "stock":"In-stock",
+                            "stock_state":1
+                        },
+                        {
+                            "name":"V10",
+                            "price":"$399.99",
+                            "stock":"In-stock",
+                            "stock_state":0
+                        }
+                    ]
+                },
+                {
+                    "type":"Hair Dryer",
+                    "products":[
+                        {
+                            "name":"Supersonic",
+                            "price":"$399.99",
+                            "stock":"In-stock",
+                            "stock_state":1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
